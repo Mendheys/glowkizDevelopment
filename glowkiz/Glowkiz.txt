@@ -1,0 +1,7 @@
+// Glowkiz
+
+=> language => angular
+=> css => bootstrap
+=> backend=> node js ??
+=> google sheet
+=> 
